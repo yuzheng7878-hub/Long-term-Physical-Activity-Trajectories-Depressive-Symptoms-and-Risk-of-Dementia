@@ -8,7 +8,7 @@ Physical activity trajectories were constructed using repeated measures of physi
 
 # Requirement
 
-R version 4.2 or higher
+R version 4.4 or higher
 
 # Scripts descriptions
 
